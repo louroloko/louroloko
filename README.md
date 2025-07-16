@@ -3,7 +3,7 @@
 🎯 **Suporte Técnico | Help Desk | Desenvolvedor Web (JavaScript/Python) | QA Engineer**  
 💻 **Java • Django • Flask • JavaScript • Python**
 
-[![LinkedIn](https://img.shields.io/badge/-Conecte-se%20no%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lourivalbispo)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/lourivalbispo)
 [![Email](https://img.shields.io/badge/-Enviar%20Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lourivalbispo@gmail.com)
 
 ---
