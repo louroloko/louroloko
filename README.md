@@ -1,3 +1,36 @@
+# 👋 Olá, eu sou o Lourival Bispo
+
+🎯 **Suporte Técnico | Help Desk | Desenvolvedor Web (JavaScript/Python) | QA Engineer**  
+💻 **Java • Django • Flask • JavaScript • Python**
+
+[![LinkedIn](https://img.shields.io/badge/-Conecte-se%20no%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lourivalbispo)
+[![Email](https://img.shields.io/badge/-Enviar%20Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lourivalbispo@gmail.com)
+
+---
+
+## 🛠️ Tecnologias & Ferramentas
+![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
+
+---
+
+## 📊 Estatísticas do GitHub
+![Lourival's GitHub stats](https://github-readme-stats.vercel.app/api?username=louroloko&show_icons=true&theme=gruvbox&hide_border=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lourivalbispo&layout=compact&theme=gruvbox&hide_border=true)
+
+---
+
+## 📬 Entre em contato
+📧 [lourivalbispo@gmail.com](mailto:anavaljw@gmail.com)  
+🔗 [linkedin.com/in/lourivalbispo](https://www.linkedin.com/in/lourivalbispo)
+
+
 <h1 align="center">Hey 👋What's Up?</h1>
 
 ###
